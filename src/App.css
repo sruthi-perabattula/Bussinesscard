@@ -1,0 +1,48 @@
+.App {
+  text-align: center;
+  background-color: gray;
+  padding: 20px;
+}
+.container{
+ 
+  margin-left: 500px;
+  background-color: black;
+  color: white;
+  width: 300px;
+  height: 690px;
+  border: 20px;
+  border-color: aliceblue;
+  border-radius: 10px;
+}
+.picture{
+  height: 260px;
+  width: 200px;
+ 
+}
+#btn{
+  width:250px ;
+  height: 35px;
+  border-radius: 10px;
+  
+}
+.a{
+  font-size: 30px;
+}
+.details{
+  text-align: left;
+  padding: 20px;
+}
+p{
+  font-size: 10px;
+}
+.icons{
+  font-size: 30px;
+  display: flex;
+  margin-left: 40px;
+  gap: 30px;
+ 
+}
+.list{
+  font-size: 10px;
+ 
+}
